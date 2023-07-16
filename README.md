@@ -1,6 +1,9 @@
 # traveller
 
-A new Flutter project.
+Traveller is a travelling app UI built with Flutter.
+
+https://github.com/abimbola-michael/Traveller/assets/89009174/51e9274f-486b-42db-9049-a1f98a44753a
+
 
 ## Getting Started
 
